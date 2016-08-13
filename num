@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int n;
+scanf("%d",&n);
+if(n>=0)
+printf("whole number");
+else
+printf("Not an whole number");
+return 0;
+}
